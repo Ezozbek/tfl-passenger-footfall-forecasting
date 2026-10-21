@@ -1,0 +1,8 @@
+# Verify exact versions against the original experiment environment.
+numpy
+pandas
+scikit-learn
+matplotlib
+seaborn
+xgboost
+pyarrow

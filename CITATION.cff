@@ -1,0 +1,8 @@
+cff-version: 1.2.0
+message: "Please cite the associated manuscript when using this software. Verify metadata before publication."
+title: "Multi-Horizon Temporal Demand Representation for Explainable Passenger-Footfall Forecasting"
+type: software
+authors:
+  - family-names: "Tokhirov"
+    given-names: "Ezozbek"
+    affiliation: "Tashkent State Transport University"
